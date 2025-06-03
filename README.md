@@ -17,7 +17,8 @@ This repository contains a red team engagement report simulating a targeted Acti
 
 ## 📄 Report Contents
 
-- `Red Team - Kerberos Golden Ticket.docx`:  
+- `Red Team - Kerberos Golden Ticket.docx`: [Red Team - Kerberos Golden Ticket.docx](https://github.com/user-attachments/files/20575636/Red.Team.-.Kerberos.Golden.Ticket.docx)
+ 
   A detailed red team report documenting:
   - Initial access and payload delivery
   - Kerberoasting and service ticket extraction
